@@ -1,11 +1,10 @@
 import React from 'react';
 
-
 const App = () => {
   return (
     <div>
-       <h1>Meet My Friend: Sachin Hittalamani</h1>
-      <img src="image.png" alt="Description of the image" />
+      <h1>Meet My Friend: Sachin Hittalamani</h1>
+      <img src="image.png" alt="Sachin Hittalamani" />
       <p>
         Sachin Hittalamani is an accomplished Test Engineer at Cureus Technologies,
         making valuable contributions to the team. With a full-time commitment, he
